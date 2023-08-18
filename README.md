@@ -7,4 +7,4 @@ Ejemplo de uso de Git
   1. Escribir el código necesario para recorrer los elementos de vectores y matrices.
   
 ***
-Mi primer cambios desde mi pc :-)
+Mi primer cambios desde mi pc ;-)
